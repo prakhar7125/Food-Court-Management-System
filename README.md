@@ -1,1 +1,3 @@
 # Food-Court-Management-System
+
+Food Court Management System is the management for placing orders online from anywhere and to make the booking of seats. The different kinds of food items will be shown to the customer and so are available to be ordered. Administrator will be able to update the database according to the availability of the food items on that instant. Similarly, seats available will be shown to the customers at any time and are available for booking. A unique order id will be obtained for each order for which the store person will match it to get the payment details and accept the cash.
